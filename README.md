@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-    <h3>minhas redes sociais</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
-
+    <h3>Minhas redes sociais</h3>
+    <div>
+        <a href="https://www.linkedin.com/in/Abel-Lucas/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/></a>
+        <a href="https://www.behance.net/abellucas1"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="32" height="32"/></a>
+    </div>
 </div>
