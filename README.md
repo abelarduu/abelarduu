@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div>
     <h3>Minhas redes sociais</h3>
     <div>
-        <a href="https://www.linkedin.com/in/Abel-Lucas/"  target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/></a>
-        <a href="https://www.behance.net/abellucas1" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="32" height="32"/></a>
+        <a href="https://www.linkedin.com/in/Abel-Lucas"  target="_blank"rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/></a>
+        <a href="https://www.behance.net/abellucas1" target="_blank"rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="32" height="32"/></a>
     </div>
 </div>
