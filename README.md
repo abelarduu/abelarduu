@@ -1,4 +1,4 @@
-###Olá!👋 me chamo Abel Lucas!
+***Olá!👋 me chamo Abel Lucas!***
 
 <!--
 **abelarduu/abelarduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-    ##Estou aprendendo<i class="devicon-flask-original-wordmark"></i>
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="64" height="64" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="64" height="64"/>
+    <h3>Estou aprendendo</h3>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="64" height="64" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="64" height="64"/>
+    </div>
 </div>
+
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
 </div>
