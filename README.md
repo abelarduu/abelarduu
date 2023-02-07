@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Olá!+👋+Me+chamo+Abel+Lucas")](https://git.io/typing-svg)
+-->
 <h2 align="center">Olá!👋 me chamo Abel Lucas!</h2>
 <div align="center">
     <p>  
@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 <div align="center">
     <h3>Minhas redes sociais</h3>
     <div>
-        <a href="https://www.linkedin.com/in/Abel-Lucas"  target="_blank"rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/></a>
-        <a href="https://www.behance.net/abellucas1" target="_blank"rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="32" height="32"/></a>
+        <a href="https://www.linkedin.com/in/Abel-Lucas"  target="_blank"rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48"/></a>
+        <a href="https://www.behance.net/abellucas1" target="_blank"rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="48" height="48"/></a>
     </div>
 </div>
-
+<!--
 <h3 align="center">Minhas redes sociais</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=instagram, linkedin,behance" />
-</p>
+    <img src="https://skillicons.dev/icons?i=instagram, linkedin" />
+</p>-->
