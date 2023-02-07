@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
     <p>  
         Meu nome é Abel, sou programador python e pixel artist há um bom tempo, me interesso por desenvolvimento de games e apps.</br>
-        Minhas linguagens favoritas são python e Ruby 
+        Minhas linguagens favoritas são python e Ruby. 
     </p>
 </div>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div align="center">
     <h3>Estou aprendendo</h3>
     <div>
-        <img src="https://skillicons.dev/icons?i=flask,ruby,godot" />
+        <img src="https://skillicons.dev/icons?i=flask,blender,ruby,gamemakerstudio,godot,unity&perline=3" />
     </div>
 </div>
 
