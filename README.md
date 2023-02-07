@@ -1,5 +1,3 @@
-***Olá!👋 me chamo Abel Lucas!***
-
 <!--
 **abelarduu/abelarduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #Olá, me chamo SeuNomeAqui !
@@ -14,15 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32"/>
-</div>
+
+
+
+***Olá!👋 me chamo Abel Lucas!***
+<p>
+    <img src="https://skillicons.dev/icons?i=python,ruby" />
+</p>
 
 <div>
     <h3>Estou aprendendo</h3>
     <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="64" height="64" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="64" height="64"/>
+        <img src="https://skillicons.dev/icons?i=flask,ruby,godot" />
     </div>
 </div>
 
@@ -33,3 +34,8 @@ Here are some ideas to get you started:
         <a href="https://www.behance.net/abellucas1" target="_blank"rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="32" height="32"/></a>
     </div>
 </div>
+
+<h3>Minhas redes sociais</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=instagram, linkedin, pinterest,behance" />
+</p>
