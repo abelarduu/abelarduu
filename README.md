@@ -18,13 +18,10 @@ Here are some ideas to get you started:
 ***Olá!👋 me chamo Abel Lucas!***
 <p>  
     Meu nome é Abel, sou programador python e pixel artist há um bom tempo, me interesso por desenvolvimento de games e apps.
-
 </p>
-
 <p>
     <img src="https://skillicons.dev/icons?i=python,ruby" />
 </p>
-
 <div>
     <h3>Estou aprendendo</h3>
     <div>
