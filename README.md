@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h2 align="center">Olá!👋 me chamo Abel Lucas!</h2>
 <div align="center">
     <p>  
-        Meu nome é Abel, sou programador python e pixel artist há um bom tempo, me interesso por desenvolvimento de games e apps.
+        Meu nome é Abel, sou programador python e pixel artist há um bom tempo, me interesso por desenvolvimento de games e apps.</br>
+        Minhas linguagens favoritas são python e Ruby 
     </p>
 </div>
 
