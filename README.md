@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 
 ***Olá!👋 me chamo Abel Lucas!***
+<p>  
+    Meu nome é Abel, sou programador python e pixel artist há um bom tempo, me interesso por desenvolvimento de games e apps.
+
+</p>
+
 <p>
     <img src="https://skillicons.dev/icons?i=python,ruby" />
 </p>
@@ -37,5 +42,5 @@ Here are some ideas to get you started:
 
 <h3>Minhas redes sociais</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=instagram, linkedin, pinterest,behance" />
+    <img src="https://skillicons.dev/icons?i=instagram, linkedin,behance" />
 </p>
