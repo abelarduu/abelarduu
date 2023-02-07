@@ -15,21 +15,24 @@ Here are some ideas to get you started:
 
 
 
-***Olá!👋 me chamo Abel Lucas!***
-<p>  
-    Meu nome é Abel, sou programador python e pixel artist há um bom tempo, me interesso por desenvolvimento de games e apps.
-</p>
-<p>
+<h2 align="center">Olá!👋 me chamo Abel Lucas!</h2>
+<div align="center">
+    <p>  
+        Meu nome é Abel, sou programador python e pixel artist há um bom tempo, me interesso por desenvolvimento de games e apps.
+    </p>
+</div>
+
+<div align="center">
     <img src="https://skillicons.dev/icons?i=python,ruby" />
-</p>
-<div>
+</div>
+<div align="center">
     <h3>Estou aprendendo</h3>
     <div>
         <img src="https://skillicons.dev/icons?i=flask,ruby,godot" />
     </div>
 </div>
 
-<div>
+<div align="center">
     <h3>Minhas redes sociais</h3>
     <div>
         <a href="https://www.linkedin.com/in/Abel-Lucas"  target="_blank"rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/></a>
@@ -37,7 +40,7 @@ Here are some ideas to get you started:
     </div>
 </div>
 
-<h3>Minhas redes sociais</h3>
+<h3 align="center">Minhas redes sociais</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=instagram, linkedin,behance" />
 </p>
