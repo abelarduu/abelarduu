@@ -12,19 +12,19 @@
         <div>
             <img src="https://skillicons.dev/icons?i=flask,blender,ruby,gamemakerstudio,godot,unity&perline=3"/>
         </div>
-    </footer>
-    <div>
+    </div>
+    <footer>
         <h3>Minhas redes sociais</h3>
         <div>
-            <a href="https://www.instagram.com/abelarduu" target="_blank">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+            <a href="https://www.instagram.com/abelarduu" target="_blank" >
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="width: 120px"/></a>
             <a href="https://br.pinterest.com/BitPixelGame/" target="_blank">
-                <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
+                <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"style="width: 120px"/></a>
             </br>
             <a href="https://www.linkedin.com/in/Abel-Lucas" target="_blank" >
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"style="width: 120px"/></a>
             <a href="https://www.behance.net/abellucas1" target="_blank">
-                <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
+                <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"style="width: 120px"/></a>
         </div>
     </footer>
 </div>
