@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://i.pinimg.com/140x140_RS/dc/5d/e6/dc5de65c38ee76a3af0bb9ca87da3f8f.jpg" type="image/jpg"/>
     <h2>Olá!👋 me chamo Abel Lucas!</h2>
     <header>
         <p>  
