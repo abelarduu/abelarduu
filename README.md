@@ -3,7 +3,7 @@
     <h2>Olá!👋 me chamo Abel Lucas!</h2>
     <header>
         <p>  
-            Meu nome é Abel, sou programador python e pixel artist há um bom tempo, </br> me interesso por desenvolvimento de games e apps. </br>
+            Meu nome é Abel, sou programador python e pixel artist há um bom tempo, me interesso por desenvolvimento de games e apps. </br>
             Minhas linguagens favoritas são python e Ruby. 
         </p>
         <p><img src="https://skillicons.dev/icons?i=python,ruby" /></p>
