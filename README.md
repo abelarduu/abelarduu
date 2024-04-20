@@ -4,8 +4,7 @@
 ### Sobre Mim
 _Python programmer | Graphic Design | Pixel Artist | Indie Game Developer_
 
-Olá! Me chamo Abel Lucas e sou programador python, designer gráfico, pixel artista e desenvolvedor de games indies ao um bom tempo. Sou apaixonado por programação e por todos os aspectos envolvidos no desenvolvimento de software e games, desde design e ux/ui até gestão e suas metodologias. Estou sempre buscando aprender mais e me aprimorar em todas essas áreas. Aberto a colaborações e novos desafios!
-Minhas linguagens favoritas são Python, Gdscript e Ruby.
+Hello! My name is Abel Lucas and I've been a Python programmer, graphic designer, pixel artist, and indie game developer for a good while. I'm passionate about programming and all aspects involved in software and game development, from design and UX/UI to management and its methodologies. I'm always seeking to learn more and improve in all these areas. Open to collaborations and new challenges! My favorite languages are Python, Gdscript, and Ruby.
 
 ![](https://skillicons.dev/icons?i=python,godot,ruby&perline=3)
 
