@@ -17,5 +17,7 @@ Hello! My name is Abel Lucas and I've been a Python programmer, graphic designer
 [![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/BitPixelGame/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abel-Lucas)
 [![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abellucas1)
+[![](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=email&logoColor=white)](mailto:abelucas009@gmail.com)
+
 
 
