@@ -10,7 +10,7 @@ Minhas linguagens favoritas são Python, Gdscript e Ruby.
 ![](https://skillicons.dev/icons?i=python,godot,ruby&perline=3)
 
 ### Minhas habilidades técnicas
-![](https://skillicons.dev/icons?i=godot,python,flask,fastapi,html,css,ps,ai&perline=10)
+![](https://skillicons.dev/icons?i=vscode,godot,python,flask,fastapi,html,css,ps,ai&perline=10)
 
 ### Conecte-se comigo
 
