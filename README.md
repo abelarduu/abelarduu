@@ -6,6 +6,8 @@ _Python programmer | Graphic Design | Pixel Artist | Indie Game Developer_
 
 Hello! My name is Abel Lucas and I've been a Python programmer, graphic designer, pixel artist, and indie game developer for a good while. I'm passionate about programming and all aspects involved in software and game development, from design and UX/UI to management and its methodologies. I'm always seeking to learn more and improve in all these areas. Open to collaborations and new challenges! My favorite languages are Python, Gdscript, and Ruby.
 
+I've completed technical courses in Systems Development and Graphic Design, and I'm currently enrolled in the undergraduate program in Systems Analysis and Development at Uninassau. Additionally, I've supplemented my education with courses in Professional Computing, Computer Maintenance (NTECI), and Administrative Assistance (BRASTEC), while always engaged in bootcamps and other development opportunities. This variety of experiences has broadened my knowledge base and skills in the technology field.
+
 ![](https://skillicons.dev/icons?i=python,godot,ruby&perline=3)
 
 ### 💻My Technical Skills
