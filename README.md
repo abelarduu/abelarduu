@@ -11,7 +11,7 @@ I've completed technical courses in Systems Development and Graphic Design, and 
 ![](https://skillicons.dev/icons?i=python,godot,gamemakerstudio,ruby&perline=4)
 
 ### 💻My Technical Skills
-![](https://skillicons.dev/icons?i=gamemakerstudio,vscode,godot,python,flask,fastapi,sqlite,html,css,ps,ai&perline=11)
+![](https://skillicons.dev/icons?i=vscode,godot,python,flask,fastapi,sqlite,html,css,gamemakerstudio,ps,ai&perline=11)
 
 ### 🌐Connect with Me
 
