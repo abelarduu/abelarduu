@@ -1,5 +1,11 @@
+centralize esse codigo pfvr 
+
+
 # Hello!👋 My name is Abel Lucas!
-<img src="https://media.licdn.com/dms/image/D4D16AQHCiFtLGOdxCA/profile-displaybackgroundimage-shrink_350_1400/0/1691597133715?e=1718841600&v=beta&t=hrG_BoXLgN3xB_rI40zeSmTmq8PIa-2ifWGybUTB5KI" type="image/jpg" width=1020px>
+<!--![image](https://github.com/abelarduu/abelarduu/assets/66369825/dadc88e0-d446-41f3-8bc1-a336c66bf34e)
+
+<img src="![image](https://github.com/abelarduu/abelarduu/assets/66369825/d445f781-650a-4733-8524-27e49e3996f7)
+" type="image/jpg" width=1020px>-->
 
 ### 📝About Me
 _Python programmer | Graphic Design | Pixel Artist | Indie Game Developer_
@@ -11,7 +17,7 @@ I've completed technical courses in Systems Development and Graphic Design, and 
 ![](https://skillicons.dev/icons?i=python,godot,gamemakerstudio,ruby&perline=4)
 
 ### 💻My Technical Skills
-![](https://skillicons.dev/icons?i=pycharm,vscode,godot,python,flask,fastapi,sqlite,ruby,html,css,gamemakerstudio,ps,ai&perline=13)
+![](https://skillicons.dev/icons?i=pycharm,vscode,godot,python,flask,fastapi,sqlite,ruby,html,css,gamemakerstudio,ps,ai&perline=14)
 
 ### 🌐Connect with Me
 
