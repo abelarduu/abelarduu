@@ -14,10 +14,8 @@ Hello! My name is Abel Lucas and I've been a Python programmer, graphic designer
 
 I've completed technical courses in Systems Development and Graphic Design, and I'm currently enrolled in the undergraduate program in Systems Analysis and Development at Uninassau. Additionally, I've supplemented my education with courses in Professional Computing, Computer Maintenance (NTECI), and Administrative Assistance (BRASTEC), while always engaged in bootcamps and other development opportunities. This variety of experiences has broadened my knowledge base and skills in the technology field.
 
-![](https://skillicons.dev/icons?i=python,godot,gamemakerstudio,ruby&perline=4)
-
 ### 💻My Technical Skills
-![](https://skillicons.dev/icons?i=pycharm,vscode,godot,python,flask,fastapi,sqlite,ruby,html,css,gamemakerstudio,ps,ai&perline=14)
+![](https://skillicons.dev/icons?i=pycharm,vscode,godot,python,flask,fastapi,sqlite,arduino,c,ruby,postman,html,css,gamemakerstudio,ps,ai&perline=8)
 
 ### 🌐Connect with Me
 
