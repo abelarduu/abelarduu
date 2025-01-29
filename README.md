@@ -1,6 +1,3 @@
-centralize esse codigo pfvr 
-
-
 # Hello!👋 My name is Abel Lucas!
 <!--![image](https://github.com/abelarduu/abelarduu/assets/66369825/dadc88e0-d446-41f3-8bc1-a336c66bf34e)
 
