@@ -1,8 +1,5 @@
 # Hello!👋 My name is Abel Lucas!
-<!--![image](https://github.com/abelarduu/abelarduu/assets/66369825/dadc88e0-d446-41f3-8bc1-a336c66bf34e)
-
-<img src="![image](https://github.com/abelarduu/abelarduu/assets/66369825/d445f781-650a-4733-8524-27e49e3996f7)
-" type="image/jpg" width=1020px>-->
+![image](https://media.licdn.com/dms/image/v2/D4D16AQG3egqBvasxdQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739372254770?e=1744848000&v=beta&t=HWaCjm1_o8JoM8d69gImYTmcn4Ry0YSkz0LgFoD9fTA)
 
 ### 📝About Me
 _Python programmer | Graphic Design | Pixel Artist | Indie Game Developer_
