@@ -1,5 +1,5 @@
 # Hello!👋 My name is Abel Lucas!
-![image](https://media.licdn.com/dms/image/v2/D4D16AQG3egqBvasxdQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739372254770?e=1744848000&v=beta&t=HWaCjm1_o8JoM8d69gImYTmcn4Ry0YSkz0LgFoD9fTA)
+![image](https://media.licdn.com/dms/image/v2/D4D16AQG3egqBvasxdQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739372254770?e=1751500800&v=beta&t=wrVHMIw6Xe_74EuDyLULEM2ypEjSt4qqjK5Nlx9hdz8)
 
 ### 📝About Me
 _Python programmer | Graphic Design | Pixel Artist | Indie Game Developer_
@@ -9,7 +9,7 @@ Hello! My name is Abel Lucas and I've been a Python programmer, graphic designer
 I've completed technical courses in Systems Development and Graphic Design, and I'm currently enrolled in the undergraduate program in Systems Analysis and Development at Uninassau. Additionally, I've supplemented my education with courses in Professional Computing, Computer Maintenance (NTECI), and Administrative Assistance (BRASTEC), while always engaged in bootcamps and other development opportunities. This variety of experiences has broadened my knowledge base and skills in the technology field.
 
 ### 💻My Technical Skills
-![](https://skillicons.dev/icons?i=pycharm,vscode,godot,python,flask,fastapi,sqlite,arduino,c,ruby,postman,html,css,gamemakerstudio,ps,ai&perline=8)
+![](https://skillicons.dev/icons?i=pycharm,sublime,vscode,godot,python,flask,fastapi,sqlite,arduino,c,ruby,postman,html,css,gamemakerstudio,ps,ai&perline=8)
 
 ### 🌐Connect with Me
 
